@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @kavi-24
 - 👀 I’m interested in programming
-- My skill set
+* My skill set
   1. Python
-    1.1 Advanced Core ⚙️ Programming 
-    1.2 Web Development 🌐 using Django and Flask ⚗️
-    1.3 Tkinter GUI and PyGame development 🎮
-    1.5 Web Scraping ⛏️
+    1. Advanced Core ⚙️ Programming 
+    2. Web Development 🌐 using Django and Flask ⚗️
+    3. Tkinter GUI and PyGame development 🎮
+    4. Web Scraping ⛏️
   2. Java - Intermediate 🤹
   3. Flutter - Intermediate 🤹
   4. Web Development - Intermediate 🤹
