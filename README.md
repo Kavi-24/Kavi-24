@@ -31,7 +31,8 @@ My name is Sri Kavipriyan.
       1. MySQL
       2. SQLite
       3. Neo4j
-      4. NoSQL (Firestore, MongoDB)
+      4. Oracle SQLPlus
+      5. NoSQL (Firestore, MongoDB)
   4. Java - Intermediate 🤹
   5. Web Development - Intermediate 🤹
   6. C/C++ - Intermediate 🤹
