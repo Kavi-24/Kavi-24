@@ -6,7 +6,8 @@ My name is Sri Kavipriyan.
 
 <p float="left">
 <img style="padding:5px;" align="center" alt="Flutter" width="35px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png"/>
-<img style="padding:5px;" align="center" alt="Django" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"> 
+<img style="padding:5px;" align="center" alt="Django" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
+<img style="padding:5px;" align="center" alt="Django" width="35px" src="https://github.com/pallets/flask/blob/main/docs/_static/flask-vertical.png">
 <img style="padding:5px;" align="center" alt="Android" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"> 
 <img style="padding:5px;" align="center" alt="Java" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
 <img style="padding:5px;" align="center" alt="C" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">
